@@ -14,7 +14,7 @@
 | Role          | Name                | Responsibilities                                         |
 | ------------- | ------------------- | -------------------------------------------------------- |
 | Test Manager  | Evans Nyamu         | Planning, scheduling, coordination, metric tracking      |
-| Risk Analyst  | Ayomide Kayode      | Risk identification, prioritization, test design linkage |
+| Risk Analyst  | Ayomide Kayode Samuel | Risk identification, prioritization, test design linkage |
 | Test Executor | Oreoluwa Ruth Ajayi | Execution, evidence capture, defect logging              |
 
 ---
@@ -91,12 +91,12 @@
 | Planning & Test Design                | Sat 2025-10-26 (1 day)   | 1 day           | ✅ Completed   |
 | Test Case Creation & Automation Setup | Sun 2025-10-27 (1 day)   | 1 day           | ✅ Completed   |
 | Test Execution & Defect Triage        | Mon 2025-10-27 (1 day)   | 1 day           | ✅ Completed   |
-| Report Finalization & Submission      | Tue 2025-10-28 (morning) | In Progress     | 🔄 In Progress |
+| Report Finalization & Submission      | Tue 2025-10-28 (morning) | 1 day           | ✅ Completed: |
 
 **Owner Assignments:**
 
 - **Test Manager (Evans Nyamu):** Maintain schedule, coordinate owners, run daily triage, approve sign-off.
-- **Risk Analyst:** Prepare risk-prioritized test cases by end of Planning day.
+- **Risk Analyst (Ayomide Kayode Samuel):** Prepare risk-prioritized test cases by end of Planning day.
 - **Test Executor (Oreoluwa Ruth Ajayi):** Create test data, execute test cases, log defects with evidence.
 
 **Critical Milestones:**
@@ -603,10 +603,10 @@ _Screenshot showing special characters accepted in input field with generic erro
 
 | Phase                                 | Deliverable                                   | Actual Output                                                                 | Variance | Owner                        |
 | ------------------------------------- | --------------------------------------------- | ----------------------------------------------------------------------------- | -------- | ---------------------------- |
-| Planning & Test Design                | Test plan, prioritized risks & test-case list | ✅ Completed: Test plan and prioritized list created                          | 0 days   | Test Manager                 |
-| Test Case Creation & Automation Setup | Test cases, automation skeleton               | ✅ Completed: Test cases documented; automation recommended (Selenium/Appium) | 0 days   | Test Executor                |
-| Test Execution & Defect Triage        | Execute tests, log defects, triage            | ✅ Completed: 8 test cases executed; 1 defect logged and triaged              | 0 days   | Test Executor / Test Manager |
-| Report Finalization & Submission      | Final report & submission                     | 🔄 In Progress: Finalizing report for 2025-10-28 AM submission                | On track | Test Manager                 |
+| Planning & Test Design                | Test plan, prioritized risks & test-case list | ✅ Completed: Test plan and prioritized list created                          | 1 day   | Test Manager                 |
+| Test Case Creation & Automation Setup | Test cases, automation skeleton               | ✅ Completed: Test cases documented; automation recommended (Selenium/Appium) | 1 day   | Test Executor                |
+| Test Execution & Defect Triage        | Execute tests, log defects, triage            | ✅ Completed: 8 test cases executed; 1 defect logged and triaged              | 1 day   | Test Executor / Test Manager |
+| Report Finalization & Submission      | Final report & submission                     | ✅ Completed: Finalizing report for 2025-10-28 AM submission                | 1 day | Test Manager                 |
 
 **Progress Tracking Method:**  
 Jira / Trello boards for task tracking; GitHub Issues for defects and PRs.
@@ -668,7 +668,7 @@ The risk-based approach enabled focused test coverage on the most important feat
 | Name                | Role          | Initials | Date       |
 | ------------------- | ------------- | -------- | ---------- |
 | Evans Nyamu         | Test Manager  | E.N.     | 2025-10-27 |
-| Ayomide Kayode      | Risk Analyst  | A.K.     | 2025-10-27      |
+| Ayomide Kayode      | Risk Analyst  | A.K.S    | 2025-10-27 |
 | Oreoluwa Ruth Ajayi | Test Executor | O.R.A.   | 2025-10-27 |
 
 ---
@@ -713,7 +713,7 @@ After all fixes are deployed, the following test cases must be retested:
 - TC09 (Scramble Validation)
 - TC10 (Special Character Input)
 
-**Test Status:** ☐ Completed / ☑ In Progress / ☐ Deferred
+**Test Status:** ☑ Completed / ☐ In Progress / ☐ Deferred
 
 **Remaining Actions:**
 
@@ -724,6 +724,6 @@ After all fixes are deployed, the following test cases must be retested:
 
 ---
 
-**Report Prepared By:** Evans Nyamu (Test Manager) | Oreoluwa Ruth Ajayi (Test Executor)  
+**Report Prepared By:** Evans Nyamu (Test Manager) | Ayomide Kayode Samuel (Risk Analyst) | Oreoluwa Ruth Ajayi (Test Executor)  
 **Report Version:** 1.0  
 **Last Updated:** 2025-10-28
