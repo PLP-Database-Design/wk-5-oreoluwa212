@@ -14,7 +14,7 @@
 | Role          | Name                | Responsibilities                                         |
 | ------------- | ------------------- | -------------------------------------------------------- |
 | Test Manager  | Evans Nyamu         | Planning, scheduling, coordination, metric tracking      |
-| Risk Analyst  | [Name TBD]          | Risk identification, prioritization, test design linkage |
+| Risk Analyst  | Ayomide Kayode      | Risk identification, prioritization, test design linkage |
 | Test Executor | Oreoluwa Ruth Ajayi | Execution, evidence capture, defect logging              |
 
 ---
@@ -668,7 +668,7 @@ The risk-based approach enabled focused test coverage on the most important feat
 | Name                | Role          | Initials | Date       |
 | ------------------- | ------------- | -------- | ---------- |
 | Evans Nyamu         | Test Manager  | E.N.     | 2025-10-27 |
-| [TBD]               | Risk Analyst  | [TBD]    | [TBD]      |
+| Ayomide Kayode      | Risk Analyst  | A.K.     | 2025-10-27      |
 | Oreoluwa Ruth Ajayi | Test Executor | O.R.A.   | 2025-10-27 |
 
 ---
